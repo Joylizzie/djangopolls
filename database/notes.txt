@@ -1,0 +1,2 @@
+superuser: hellow
+password: streamDjango
