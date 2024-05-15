@@ -83,7 +83,7 @@ DATABASES = {
         "OPTIONS": {
             "service": "my_service",
             "passfile": ".pgpass",
-          #'options': '-c search_path=mysite',
+          'options': '-c search_path=polls',
         },
     }
 }
