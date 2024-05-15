@@ -1,4 +1,4 @@
-from ..polls.models import Choice, Question
+from polls.models import Choice, Question
 
 def choices_input(qlst, clst, votes=0):
 # qlst = Question.objects.all()
